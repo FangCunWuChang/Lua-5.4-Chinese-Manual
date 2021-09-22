@@ -9,4 +9,4 @@ Lua以由clean C（标准C语言和C++语言的交集）编写成的库的形式
 
 Lua是免费软件，按照许可证中的规定，它不提供任何担保。Lua 5.4版本可以在[Lua官网](http://www.lua.org "Lua官网")获取。  
 
-和其它文档一样，这篇文档也都是干货。如果想要了解Lua某些内容的设计原因，可以在Lua官网上查阅技术论文。如果想要系统的学习Lua编程，可以阅读由Roberto Ierusalimschy编著的*《Programming in Lua》*。  
+和其它文档一样，这篇文档也都是干货。如果想要了解Lua某些内容的设计原因，可以在Lua官网上查阅技术论文。如果想要系统的学习Lua编程，可以阅读由Roberto Ierusalimschy编著的*Programming in Lua*。  
